@@ -25,13 +25,10 @@
     {"id": "prod-aa7c3aa2-019", "name": "Pro Item 19", "category": "home", "price": 70.26, "stock": 59, "rating": 4.7}
   ],
   "aggregations": {
-    "home": {
-      "count": 8,
-      "inventoryValue": 162495.31
-    },
-    "electronics": {
-      "count": 4,
-      "inventoryValue": 130888.04
-    }
+    "home": {"count": 8, "inventoryValue": 162495.31},
+    "electronics": {"count": 4, "inventoryValue": 130888.04},
+    "clothing": {"count": 2, "inventoryValue": 65948.9},
+    "books": {"count": 3, "inventoryValue": 64440.65},
+    "sports": {"count": 2, "inventoryValue": 9724.43}
   }
 }
