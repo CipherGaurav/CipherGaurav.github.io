@@ -20,4 +20,4 @@ jobs:
           key: cache-db21ae4
 
       - name: prime-cache-db21ae4
-        run: echo "Cache hit: ${{ steps.cache.outputs.cache-hit }}"
+        run: echo "Cache hit ${{ steps.cache.outputs.cache-hit }}"
