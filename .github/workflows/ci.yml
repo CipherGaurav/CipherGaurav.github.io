@@ -1,4 +1,4 @@
-﻿name: CI
+name: CI
 
 on:
   push:
@@ -11,3 +11,11 @@ jobs:
     steps:
       - name: 23f1003184@ds.study.iitm.ac.in
         run: echo "Hello, world!"
+```
+
+6. **Commit changes** click kar
+7. **Actions** tab pe ja → **"Run workflow"** click kar
+
+Phir submit karna:
+```
+https://github.com/CipherGaurav/CipherGaurav.github.io
