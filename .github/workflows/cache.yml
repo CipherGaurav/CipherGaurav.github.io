@@ -1,4 +1,4 @@
-﻿name: Cache Dependencies
+name: Cache Dependencies
 
 on:
   push:
